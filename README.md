@@ -14,7 +14,7 @@ In this term, you'll expand on your sensor knowledge to localize and control the
 
 After that, you'll learn how to plan where the vehicle should go, and how the vehicle systems work together to get it there.
 
-- Project 1  Kidnapped Vehicle
+- [Project 1  Kidnapped Vehicle](https://github.com/lilyhappily/Udacity-self-driving-Term-2-Project-1-Kidnapped-Vehicle-and-notes/tree/master/CarND-Kidnapped-Vehicle-Project)
 - Project2   Highway Driving
 - Project3   PID Controller
 - Project4   Improve Your LinkedIn Profile
@@ -23,7 +23,7 @@ After that, you'll learn how to plan where the vehicle should go, and how the ve
 
 # Particle Filter Project Visualizer
 
-The Term 2 Simulator includes a graphical version of the Kidnapped Vehicle Project. Running the simulator you can see the path that the car drives along with all of its landmark measurements. (**Note:**If you choose to utilize the Workspace for this project, both the similator and related project repository are included therein, so you won't need to download/clone them locally except as desired).
+The Term 2 Simulator includes a graphical version of the Kidnapped Vehicle Project. Running the simulator you can see the path that the car drives along with all of its landmark measurements. 
 
 Included in the [Kidnapped Vehicle project Github repository](https://github.com/udacity/CarND-Kidnapped-Vehicle-Project) are program files that allow you to set up and run c++ uWebSocketIO, which is used to communicate with the simulator. The simulator provides the script for the noisy position data, vehicle controls, and noisy observations. The script feeds back the best particle state.
 
