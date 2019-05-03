@@ -29,7 +29,9 @@ Included in the [Kidnapped Vehicle project Github repository](https://github.com
 
 The simulator can also display the best particle's sensed positions, along with the corresponding map ID associations. This can be extremely helpful to make sure transition and association calculations were done correctly. Below is a video of what it looks like when the simulator successfully is able to track the car to a particle. Notice that the green laser sensors from the car nearly overlap the blue laser sensors from the particle, this means that the particle transition calculations were done correctly.
 
-https://www.youtube.com/watch?v=oyjJpE-T0WQ&feature=youtu.be
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/oyjJpE-T0WQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
 
 ## Running the Program
 
