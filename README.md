@@ -38,7 +38,7 @@ The simulator can also display the best particle's sensed positions, along with 
 1. Download the simulator and open it. In the main menu screen select Project 3: Kidnapped Vehicle.
 2. Once the scene is loaded you can hit the START button to observe how the car drives and observes landmarks. At any time you can press the PAUSE button, to pause the scene or hit the RESTART button to reset the scene. Also the ARROW KEYS can be used to move the camera around, and the top left ZOOM IN/OUT buttons can be used to focus the camera. Pressing the ESCAPE KEY returns to the simulator main menu.
 
-3. The [Kidnapped Vehicle project README](https://github.com/udacity/CarND-Kidnapped-Vehicle-Project) has more detailed instructions for installing and using c++ uWebScoketIO.
+3. The [Kidnapped Vehicle project README](https://github.com/lilyhappily/Udacity-self-driving-Term-2-Project-1-Kidnapped-Vehicle-and-notes/blob/master/CarND-Kidnapped-Vehicle-Project/README.md) has more detailed instructions for installing and using c++ uWebScoketIO.
 
 
 
