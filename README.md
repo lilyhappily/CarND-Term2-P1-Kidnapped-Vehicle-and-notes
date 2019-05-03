@@ -32,7 +32,7 @@ The simulator can also display the best particle's sensed positions, along with 
 <video src="0SbVwwY_NuQ.mp4"></video>
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/0B6m34D8cFdpMZndKTlBRU0tmczg/preview" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://github.com/lilyhappily/Udacity-self-driving-Term-2-Project-1-Kidnapped-Vehicle-and-notes/blob/master/0SbVwwY_NuQ.mp4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
