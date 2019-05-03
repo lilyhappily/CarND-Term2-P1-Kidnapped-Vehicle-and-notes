@@ -28,10 +28,9 @@ The Term 2 Simulator includes a graphical version of the Kidnapped Vehicle Proje
 Included in the [Kidnapped Vehicle project Github repository](https://github.com/udacity/CarND-Kidnapped-Vehicle-Project) are program files that allow you to set up and run c++ uWebSocketIO, which is used to communicate with the simulator. The simulator provides the script for the noisy position data, vehicle controls, and noisy observations. The script feeds back the best particle state.
 
 The simulator can also display the best particle's sensed positions, along with the corresponding map ID associations. This can be extremely helpful to make sure transition and association calculations were done correctly. Below is a video of what it looks like when the simulator successfully is able to track the car to a particle. Notice that the green laser sensors from the car nearly overlap the blue laser sensors from the particle, this means that the particle transition calculations were done correctly.
-
-  <image src = "particle filter.png">
+                           <image src = "particle filter.png" width = 400>
   
-For video:https://youtu.be/oyjJpE-T0WQ
+**For video**: https://youtu.be/oyjJpE-T0WQ
 ## Running the Program
 
 1. Download the simulator and open it. In the main menu screen select Project 3: Kidnapped Vehicle.
