@@ -16,7 +16,7 @@ After that, you'll learn how to plan where the vehicle should go, and how the ve
 
 - Project 1  [Kidnapped Vehicle](https://github.com/lilyhappily/Udacity-Project1-CarND-Kidnapped-Vehicle-and-notes)
 - Project2   [Highway Driving](https://github.com/lilyhappily/Udacity-Project2-CarND-Highway-Driving-and-notes)
-- Project3   PID Controller
+- Project3   [PID Controller](https://github.com/lilyhappily/Udacity-Project3-CarND-PID-Control-and-notes)
 - Project4   Improve Your LinkedIn Profile
 - Project5   Optimize Your GitHub Profile
 - Project6   Programming a Real Self-Driving Car
