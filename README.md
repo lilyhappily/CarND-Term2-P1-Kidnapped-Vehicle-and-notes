@@ -14,7 +14,7 @@ In this term, you'll expand on your sensor knowledge to localize and control the
 
 After that, you'll learn how to plan where the vehicle should go, and how the vehicle systems work together to get it there.
 
-- Project 1  [Kidnapped Vehicle](https://github.com/lilyhappily/Udacity-Project1-CarND-Kidnapped-Vehicle-and-notes)
+- Project1  [Kidnapped Vehicle](https://github.com/lilyhappily/Udacity-Project1-CarND-Kidnapped-Vehicle-and-notes)
 - Project2   [Highway Driving](https://github.com/lilyhappily/Udacity-Project2-CarND-Highway-Driving-and-notes)
 - Project3   [PID Controller](https://github.com/lilyhappily/Udacity-Project3-CarND-PID-Control-and-notes)
 - Project4   Improve Your LinkedIn Profile
