@@ -19,7 +19,7 @@ After that, you'll learn how to plan where the vehicle should go, and how the ve
 - Project3   [PID Controller](https://github.com/lilyhappily/Udacity-Project3-CarND-PID-Control-and-notes)
 - Project4   Improve Your LinkedIn Profile
 - Project5   Optimize Your GitHub Profile
-- Project6   Programming a Real Self-Driving Car
+- Project6   [Programming a Real Self-Driving Car](https://github.com/lilyhappily/Udacity-Project6-CarND-Capstone)
 
 # Particle Filter Project Visualizer
 
